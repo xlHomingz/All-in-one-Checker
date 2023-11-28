@@ -1,9 +1,6 @@
 # All-in-one-Checker
 # Calani AIO 
 
-<html>
-<a href=https://img.utdstc.com/icon/d34/a74/d34a74281538887e01059f9801d0a1f14bfcebc6eb10a6371e5a97be500f0bb8:200><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png></a>
-</html>
 
 
 An all in account checker made in C++. Made with multichecking and more. This was made to demonstrate the flaws in certain website API's.
